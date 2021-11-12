@@ -1,6 +1,9 @@
 # Vulnerable Windows Application
 Vulnerable Windows Application for Pentesters.
 
+## Disclaimer
+Warning! The application you are about to install is very vulnerable! Purpose of the application is to learn Windows thick client pentesting and should not be used maliciously. Do not install this application in production/corporate servers. If your server is compromised via an installation of this application, it is responsibility of the person/s who installed it
+
 ## Vulnerabilities
 DLL Hijacking
 
