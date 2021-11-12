@@ -24,7 +24,7 @@ Process Injection
 COM Hijacking
 
 ## Installation
-Install the msi as Administrator
+Install the msi as an Administrator
 
 ## Platorms Supported
 Windows 10 x64, Windows 2016 and 2019 x64
