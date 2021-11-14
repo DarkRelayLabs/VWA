@@ -2,7 +2,7 @@
 Vulnerable Windows Application for Pentesters.
 
 ## Disclaimer
-Warning! The application you are about to install is very vulnerable! Purpose of the application is to learn Windows thick client pentesting and should not be used maliciously. Do not install this application in production/corporate servers. If your server is compromised via an installation of this application, it is responsibility of the person who installed it.
+Warning! You are about to install Viparva's Vulnerable Windows Application! Purpose of the application is to educate students on Windows Thick Client Pentesting. If you use this application for malicious means or if your server is compromised via an installation of this application,Viparva Security Labs does not hold any responsibility! If you have more questions, please write to us https://www.viparva.com/contact
 
 ## Vulnerabilities
 DLL Hijacking
