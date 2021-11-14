@@ -23,6 +23,8 @@ Weak Memory Protection
 
 Stack Buffer Overflow
 
+Absence of Digital Signatures
+
 ## TBD
 Process Injection
 
