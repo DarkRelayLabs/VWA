@@ -25,10 +25,9 @@ Stack Buffer Overflow
 
 Absence of Digital Signatures
 
-## TBD
-Process Injection
-
 COM Hijacking
+
+Process Injection
 
 ## Installation
 Install the msi as an Administrator
