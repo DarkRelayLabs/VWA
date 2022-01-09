@@ -42,5 +42,13 @@ Immunity Debugger
 
 Symboliclink-testing-tools from Google
 
+Echo Mirage
+
+Regshot
+
+Windows Attack Surface Analyzer
+
+mingw compiler c++
+
 ## Write-ups
 https://www.darkrelay.com/post/thick-client-penetration-testing
