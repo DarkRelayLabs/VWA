@@ -41,3 +41,6 @@ Microsoft Sysinternal Tools
 Immunity Debugger
 
 Symboliclink-testing-tools from Google
+
+## Write-ups
+https://www.darkrelay.com/post/thick-client-penetration-testing
