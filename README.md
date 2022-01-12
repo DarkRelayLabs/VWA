@@ -4,6 +4,9 @@ Vulnerable Windows Application for Pentesters.
 ## Disclaimer
 Warning! You are about to install DarkRelay's Vulnerable Windows Application! Purpose of the application is to educate students on Windows Thick Client Pentesting. If you use this application for malicious means or if your server is compromised via an installation of this application,DarkRelay does not hold any responsibility! If you have more questions, please write to us https://www.darkrelay.com/get-started
 
+## Write-ups
+https://www.darkrelay.com/post/thick-client-penetration-testing
+
 ## Vulnerabilities
 DLL Hijacking
 
@@ -49,6 +52,3 @@ Regshot
 Windows Attack Surface Analyzer
 
 mingw compiler c++
-
-## Write-ups
-https://www.darkrelay.com/post/thick-client-penetration-testing
