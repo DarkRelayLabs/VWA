@@ -16,21 +16,23 @@ Symlink Attacks
 
 IFEO Injection
 
-Unquoted Service Path
+Unquoted Service Paths
 
 Man In the Middle Attack
 
-Weak Named Pipe
+Weak Named Pipes
 
 Weak Memory Protection
 
-Stack Buffer Overflow
+Stack Overflow
 
 Absence of Digital Signatures
 
 COM Hijacking
 
 Process Injection
+
+Heap Overflow
 
 ## Installation
 Install the msi as an Administrator
