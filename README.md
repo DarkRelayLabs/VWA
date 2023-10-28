@@ -1,3 +1,5 @@
+### Note: This repo is moved to https://github.com/DarkRelay-Security-Labs/VWA
+
 # Vulnerable Windows Application
 Vulnerable Windows Application for Pentesters.
 
